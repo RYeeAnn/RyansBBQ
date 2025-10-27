@@ -1,0 +1,176 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "locations": "Ubicaciones",
+    "contact": "Contacto",
+    "reservations": "Reservaciones"
+  },
+  "hero": {
+    "title1": "Premium",
+    "title2": "Y Auténtico",
+    "title3": "BBQ House",
+    "subtitle": "Descubre sabores de BBQ tradicionales elaborados con pasión. Servimos solo las mejores carnes ahumadas y acompañamientos auténticos en Vancouver.",
+    "cta": "Ver Nuestro Menú"
+  },
+  "landing": {
+    "findRyan": {
+      "title": "¡Encuentra Ryan!",
+      "description": "Tenemos 5 restaurantes en todo el centro de Vancouver, BC. ¡Busca Ryan cerca de ti!",
+      "link": "Encontrar una Ubicación"
+    },
+    "reservation": {
+      "title": "Hacer una Reserva",
+      "description": "Descubre sabores de BBQ auténticos y experimenta la hospitalidad premium en tu ubicación de Ryan's BBQ más cercana.",
+      "link": "Reservar una Mesa"
+    },
+    "about": {
+      "ourStory": {
+        "title": "Nuestra Historia",
+        "description": "Fundado con la visión de llevar sabores de BBQ auténticos a Vancouver, Ryan's BBQ ha estado sirviendo carnes ahumadas premium y acompañamientos tradicionales desde nuestra apertura. Solo obtenemos los mejores ingredientes y nos enorgullecemos de nuestro oficio."
+      },
+      "ourMission": {
+        "title": "Nuestra Misión",
+        "description": "Proporcionar experiencias gastronómicas excepcionales de BBQ que celebren sabores auténticos, ingredientes de calidad y hospitalidad cálida. Estamos comprometidos a hacer que cada invitado se sienta como familia."
+      }
+    }
+  },
+  "menu": {
+    "title": "Menú",
+    "loading": "Cargando menú...",
+    "error": "Error",
+    "tryAgain": "Intentar de Nuevo",
+    "filters": {
+      "all": "Todo",
+      "bbq": "BBQ",
+      "steaks": "Carnes",
+      "sandwiches": "Sándwiches",
+      "sides": "Acompañamientos",
+      "drinks": "Bebidas",
+      "desserts": "Postres"
+    },
+    "sections": {
+      "bbq": "Favoritos BBQ",
+      "steaks": "Carnes Premium",
+      "sandwiches": "Sándwiches",
+      "sides": "Acompañamientos y Más",
+      "drinks": "Bebidas",
+      "desserts": "Postres"
+    }
+  },
+  "locations": {
+    "title": "Nuestras Ubicaciones",
+    "subtitle": "Experimenta Ryan's BBQ en 5 ubicaciones convenientes en todo el centro de Vancouver",
+    "address": "Dirección:",
+    "phone": "Teléfono:",
+    "hours": "Horario",
+    "features": "Características",
+    "getDirections": "Obtener Direcciones",
+    "callNow": "Llamar Ahora"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Ponte en contacto con nosotros",
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "name": "Nombre",
+      "email": "Correo",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "required": "*",
+      "namePlaceholder": "Tu nombre",
+      "emailPlaceholder": "tu.correo@ejemplo.com",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "messagePlaceholder": "Cuéntanos qué piensas...",
+      "success": "¡Gracias! Tu mensaje ha sido enviado exitosamente.",
+      "error": "Error al enviar el mensaje. Por favor intenta de nuevo.",
+      "networkError": "Error de red. Por favor verifica tu conexión e intenta de nuevo."
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "phone": "Teléfono",
+      "email": "Correo",
+      "address": "Dirección",
+      "hoursTitle": "Horario de Atención",
+      "hours": {
+        "weekday": "Lunes - Jueves: 11am - 11pm",
+        "friday": "Viernes: 11am - 12am",
+        "saturday": "Sábado: 10am - 12am",
+        "sunday": "Domingo: 10am - 11pm"
+      }
+    }
+  },
+  "reservations": {
+    "title": "Hacer una Reserva",
+    "subtitle": "Reserva tu mesa en cualquiera de nuestras 5 ubicaciones en Vancouver",
+    "form": {
+      "location": "Seleccionar Ubicación",
+      "locationPlaceholder": "Elegir una ubicación",
+      "date": "Fecha",
+      "time": "Hora",
+      "timePlaceholder": "Seleccionar hora",
+      "guests": "Tamaño del Grupo",
+      "guest": "Invitado",
+      "guests": "Invitados",
+      "name": "Nombre Completo",
+      "phone": "Número de Teléfono",
+      "email": "Dirección de Correo",
+      "requests": "Solicitudes Especiales",
+      "requestsPlaceholder": "¿Alguna restricción dietética, necesidades de accesibilidad u ocasiones especiales?",
+      "submit": "Solicitar Reserva",
+      "namePlaceholder": "Juan Pérez",
+      "phonePlaceholder": "(604) 555-0123",
+      "emailPlaceholder": "tu@ejemplo.com"
+    },
+    "info": {
+      "title": "¿Tienes Preguntas?",
+      "description": "Para grupos grandes (12+ invitados) o eventos especiales, por favor llámanos directamente al",
+      "confirmation": "Confirmaremos tu reserva por teléfono o correo electrónico dentro de las 2 horas de tu solicitud."
+    }
+  },
+  "footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "hours": "Horario",
+    "weekdays": "Lunes - Viernes: 11am - 1am",
+    "weekends": "Fin de Semana: 11am - 2am",
+    "rights": "Todos los derechos reservados."
+  },
+  "locales": {
+    "locations": {
+      "gastown": "Gastown",
+      "coalHarbour": "Coal Harbour",
+      "yaletown": "Yaletown",
+      "mainStreet": "Main Street",
+      "olympicVillage": "Olympic Village",
+      "address1": "123 Water Street, Vancouver, BC V6B 1A1",
+      "address2": "456 West Cordova Street, Vancouver, BC V6B 1E8",
+      "address3": "789 Hamilton Street, Vancouver, BC V6B 6A3",
+      "address4": "321 Main Street, Vancouver, BC V5T 3M9",
+      "address5": "555 Olympic Village Square, Vancouver, BC V5Y 0J7",
+      "phone1": "604-555-0101",
+      "phone2": "604-555-0102",
+      "phone3": "604-555-0103",
+      "phone4": "604-555-0104",
+      "phone5": "604-555-0105",
+      "hours": "Lunes - Viernes: 11:00 AM - 1:00 AM",
+      "hoursWeekend": "Fin de Semana: 11:00 AM - 2:00 AM",
+      "feature1": "Distrito Histórico",
+      "feature2": "Asientos en Patio",
+      "feature3": "Estacionamiento Disponible",
+      "feature4": "Vistas al Agua",
+      "feature5": "Ubicación Premium",
+      "feature6": "Estacionamiento de Valet",
+      "feature7": "Patio en la Azotea",
+      "feature8": "Salón Privado",
+      "feature9": "Brunch de Fin de Semana",
+      "feature10": "Música en Vivo",
+      "feature11": "Amigable para Familias",
+      "feature12": "Asientos al Aire Libre",
+      "feature13": "Patio Amigable para Mascotas",
+      "feature14": "Espacio para Eventos"
+    }
+  }
+}

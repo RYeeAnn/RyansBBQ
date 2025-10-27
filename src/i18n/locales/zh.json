@@ -1,0 +1,176 @@
+{
+  "navigation": {
+    "home": "首页",
+    "menu": "菜单",
+    "locations": "地点",
+    "contact": "联系我们",
+    "reservations": "预订"
+  },
+  "hero": {
+    "title1": "精品",
+    "title2": "正宗",
+    "title3": "BBQ餐厅",
+    "subtitle": "发现充满热情的传统烧烤风味。我们仅在温哥华提供最优质的熏肉和正宗配菜。",
+    "cta": "查看菜单"
+  },
+  "landing": {
+    "findRyan": {
+      "title": "找Ryan餐厅！",
+      "description": "我们在温哥华市中心共有5家餐厅。在您附近寻找Ryan餐厅！",
+      "link": "查找地点"
+    },
+    "reservation": {
+      "title": "预订餐桌",
+      "description": "发现正宗的BBQ风味，在您附近的Ryan's BBQ体验优质服务。",
+      "link": "预订餐桌"
+    },
+    "about": {
+      "ourStory": {
+        "title": "我们的故事",
+        "description": "Ryan's BBQ的愿景是将正宗BBQ风味带到温哥华，自开业以来一直提供优质熏肉和传统配菜。我们只采购最优质的食材，并为我们的工艺感到自豪。"
+      },
+      "ourMission": {
+        "title": "我们的使命",
+        "description": "提供卓越的BBQ用餐体验，庆祝正宗风味、优质食材和热情服务。我们致力于让每位客人都有宾至如归的感觉。"
+      }
+    }
+  },
+  "menu": {
+    "title": "菜单",
+    "loading": "正在加载菜单...",
+    "error": "错误",
+    "tryAgain": "重试",
+    "filters": {
+      "all": "全部",
+      "bbq": "BBQ",
+      "steaks": "牛排",
+      "sandwiches": "三明治",
+      "sides": "配菜",
+      "drinks": "饮品",
+      "desserts": "甜点"
+    },
+    "sections": {
+      "bbq": "BBQ精选",
+      "steaks": "精品牛排",
+      "sandwiches": "三明治",
+      "sides": "配菜及更多",
+      "drinks": "饮品",
+      "desserts": "甜点"
+    }
+  },
+  "locations": {
+    "title": "我们的地点",
+    "subtitle": "在温哥华市中心的5个便利地点体验Ryan's BBQ",
+    "address": "地址:",
+    "phone": "电话:",
+    "hours": "营业时间",
+    "features": "特色",
+    "getDirections": "获取路线",
+    "callNow": "立即致电"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "与我们取得联系",
+    "form": {
+      "title": "发送消息",
+      "name": "姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "留言",
+      "send": "发送消息",
+      "sending": "发送中...",
+      "required": "*",
+      "namePlaceholder": "您的姓名",
+      "emailPlaceholder": "your.email@example.com",
+      "subjectPlaceholder": "主题是什么？",
+      "messagePlaceholder": "告诉我们您的想法...",
+      "success": "谢谢！您的消息已成功发送。",
+      "error": "发送失败。请重试。",
+      "networkError": "网络错误。请检查您的连接并重试。"
+    },
+    "info": {
+      "title": "联系信息",
+      "phone": "电话",
+      "email": "邮箱",
+      "address": "地址",
+      "hoursTitle": "营业时间",
+      "hours": {
+        "weekday": "周一至周四: 上午11点-晚上11点",
+        "friday": "周五: 上午11点-午夜12点",
+        "saturday": "周六: 上午10点-午夜12点",
+        "sunday": "周日: 上午10点-晚上11点"
+      }
+    }
+  },
+  "reservations": {
+    "title": "预订餐桌",
+    "subtitle": "在我们在温哥华的5个地点中的任何一个预订餐桌",
+    "form": {
+      "location": "选择地点",
+      "locationPlaceholder": "选择地点",
+      "date": "日期",
+      "time": "时间",
+      "timePlaceholder": "选择时间",
+      "guests": "人数",
+      "guest": "人",
+      "guests": "人",
+      "name": "全名",
+      "phone": "电话号码",
+      "email": "邮箱地址",
+      "requests": "特殊要求",
+      "requestsPlaceholder": "任何饮食限制、无障碍需求或特殊场合？",
+      "submit": "申请预订",
+      "namePlaceholder": "张三",
+      "phonePlaceholder": "(604) 555-0123",
+      "emailPlaceholder": "you@example.com"
+    },
+    "info": {
+      "title": "有问题？",
+      "description": "对于大型聚会（12人以上）或特殊活动，请直接致电",
+      "confirmation": "我们将在您提交请求后2小时内通过电话或电子邮件确认您的预订。"
+    }
+  },
+  "footer": {
+    "quickLinks": "快速链接",
+    "contact": "联系",
+    "hours": "营业时间",
+    "weekdays": "周一至周五: 上午11点-凌晨1点",
+    "weekends": "周末: 上午11点-凌晨2点",
+    "rights": "保留所有权利。"
+  },
+  "locales": {
+    "locations": {
+      "gastown": "煤气镇",
+      "coalHarbour": "煤炭港",
+      "yaletown": "耶鲁镇",
+      "mainStreet": "缅街",
+      "olympicVillage": "奥林匹克村",
+      "address1": "水街123号, 温哥华, BC V6B 1A1",
+      "address2": "西科多瓦街456号, 温哥华, BC V6B 1E8",
+      "address3": "汉密尔顿街789号, 温哥华, BC V6B 6A3",
+      "address4": "缅街321号, 温哥华, BC V5T 3M9",
+      "address5": "奥林匹克村广场555号, 温哥华, BC V5Y 0J7",
+      "phone1": "604-555-0101",
+      "phone2": "604-555-0102",
+      "phone3": "604-555-0103",
+      "phone4": "604-555-0104",
+      "phone5": "604-555-0105",
+      "hours": "周一至周五: 上午11:00-凌晨1:00",
+      "hoursWeekend": "周末: 上午11:00-凌晨2:00",
+      "feature1": "历史街区",
+      "feature2": "露台座位",
+      "feature3": "提供停车",
+      "feature4": "海滨景色",
+      "feature5": "黄金地段",
+      "feature6": "代客泊车",
+      "feature7": "屋顶露台",
+      "feature8": "私人包房",
+      "feature9": "周末早午餐",
+      "feature10": "现场音乐",
+      "feature11": "家庭友好",
+      "feature12": "户外座位",
+      "feature13": "宠物友好露台",
+      "feature14": "活动空间"
+    }
+  }
+}

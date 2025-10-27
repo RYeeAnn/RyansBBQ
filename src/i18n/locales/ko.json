@@ -1,0 +1,176 @@
+{
+  "navigation": {
+    "home": "홈",
+    "menu": "메뉴",
+    "locations": "위치",
+    "contact": "문의하기",
+    "reservations": "예약"
+  },
+  "hero": {
+    "title1": "프리미엄",
+    "title2": "진정한",
+    "title3": "BBQ 레스토랑",
+    "subtitle": "열정으로 만든 전통적인 BBQ 맛을 발견하세요. 밴쿠버에서 최고의 훈제 고기와 진정한 사이드만 제공합니다.",
+    "cta": "메뉴 보기"
+  },
+  "landing": {
+    "findRyan": {
+      "title": "Ryan 찾기!",
+      "description": "밴쿠버 다운타운 전역에 5개의 레스토랑이 있습니다. 가까운 Ryan을 찾아보세요!",
+      "link": "위치 찾기"
+    },
+    "reservation": {
+      "title": "예약하기",
+      "description": "진정한 BBQ 맛을 발견하고 가장 가까운 Ryan's BBQ에서 프리미엄 서비스를 경험하세요.",
+      "link": "테이블 예약"
+    },
+    "about": {
+      "ourStory": {
+        "title": "우리의 이야기",
+        "description": "밴쿠버에 진정한 BBQ 맛을 가져오겠다는 비전으로 설립된 Ryan's BBQ는 오픈 이후로 프리미엄 훈제 고기와 전통 사이드를 제공해왔습니다. 최고의 재료만 구매하며 우리의 공예에 자부심을 갖고 있습니다."
+      },
+      "ourMission": {
+        "title": "우리의 사명",
+        "description": "진정한 맛, 품질 좋은 재료, 따뜻한 환대를 기념하는 뛰어난 BBQ 식사 경험을 제공합니다. 모든 손님이 가족처럼 느끼도록 노력하고 있습니다."
+      }
+    }
+  },
+  "menu": {
+    "title": "메뉴",
+    "loading": "메뉴 로딩 중...",
+    "error": "오류",
+    "tryAgain": "다시 시도",
+    "filters": {
+      "all": "전체",
+      "bbq": "BBQ",
+      "steaks": "스테이크",
+      "sandwiches": "샌드위치",
+      "sides": "사이드",
+      "drinks": "음료",
+      "desserts": "디저트"
+    },
+    "sections": {
+      "bbq": "BBQ 인기 메뉴",
+      "steaks": "프리미엄 스테이크",
+      "sandwiches": "샌드위치",
+      "sides": "사이드 및 기타",
+      "drinks": "음료",
+      "desserts": "디저트"
+    }
+  },
+  "locations": {
+    "title": "매장 위치",
+    "subtitle": "밴쿠버 다운타운 전역의 편리한 5곳에서 Ryan's BBQ를 경험하세요",
+    "address": "주소:",
+    "phone": "전화:",
+    "hours": "영업시간",
+    "features": "특징",
+    "getDirections": "길 안내 받기",
+    "callNow": "전화하기"
+  },
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "연락 주세요",
+    "form": {
+      "title": "메시지 보내기",
+      "name": "이름",
+      "email": "이메일",
+      "subject": "제목",
+      "message": "메시지",
+      "send": "보내기",
+      "sending": "전송 중...",
+      "required": "*",
+      "namePlaceholder": "이름을 입력하세요",
+      "emailPlaceholder": "your.email@example.com",
+      "subjectPlaceholder": "무엇에 관한 내용인가요?",
+      "messagePlaceholder": "의견을 알려주세요...",
+      "success": "감사합니다! 메시지가 성공적으로 전송되었습니다.",
+      "error": "메시지 전송에 실패했습니다. 다시 시도해주세요.",
+      "networkError": "네트워크 오류입니다. 연결을 확인하고 다시 시도해주세요."
+    },
+    "info": {
+      "title": "연락처 정보",
+      "phone": "전화",
+      "email": "이메일",
+      "address": "주소",
+      "hoursTitle": "영업시간",
+      "hours": {
+        "weekday": "월요일 - 목요일: 오전 11시 - 오후 11시",
+        "friday": "금요일: 오전 11시 - 자정",
+        "saturday": "토요일: 오전 10시 - 자정",
+        "sunday": "일요일: 오전 10시 - 오후 11시"
+      }
+    }
+  },
+  "reservations": {
+    "title": "예약하기",
+    "subtitle": "밴쿠버에 있는 5개 매장 중 하나에서 테이블 예약",
+    "form": {
+      "location": "매장 선택",
+      "locationPlaceholder": "매장을 선택하세요",
+      "date": "날짜",
+      "time": "시간",
+      "timePlaceholder": "시간 선택",
+      "guests": "인원수",
+      "guest": "명",
+      "guests": "명",
+      "name": "성함",
+      "phone": "전화번호",
+      "email": "이메일 주소",
+      "requests": "특별 요청사항",
+      "requestsPlaceholder": "식이 제한, 접근성 요구사항 또는 특별한 행사가 있나요?",
+      "submit": "예약 요청",
+      "namePlaceholder": "홍길동",
+      "phonePlaceholder": "(604) 555-0123",
+      "emailPlaceholder": "you@example.com"
+    },
+    "info": {
+      "title": "질문이 있으신가요?",
+      "description": "대규모 모임(12명 이상) 또는 특별한 행사의 경우 직접 전화로 문의해주세요",
+      "confirmation": "요청 후 2시간 이내에 전화 또는 이메일로 예약을 확인해드립니다."
+    }
+  },
+  "footer": {
+    "quickLinks": "빠른 링크",
+    "contact": "연락처",
+    "hours": "영업시간",
+    "weekdays": "월요일 - 금요일: 오전 11시 - 새벽 1시",
+    "weekends": "주말: 오전 11시 - 새벽 2시",
+    "rights": "모든 권리 보유."
+  },
+  "locales": {
+    "locations": {
+      "gastown": "개스타운",
+      "coalHarbour": "콜 하버",
+      "yaletown": "옐레타운",
+      "mainStreet": "메인 스트리트",
+      "olympicVillage": "올림픽 빌리지",
+      "address1": "워터 스트리트 123번, 밴쿠버, BC V6B 1A1",
+      "address2": "웨스트 코도바 스트리트 456번, 밴쿠버, BC V6B 1E8",
+      "address3": "해밀턴 스트리트 789번, 밴쿠버, BC V6B 6A3",
+      "address4": "메인 스트리트 321번, 밴쿠버, BC V5T 3M9",
+      "address5": "올림픽 빌리지 스퀘어 555번, 밴쿠버, BC V5Y 0J7",
+      "phone1": "604-555-0101",
+      "phone2": "604-555-0102",
+      "phone3": "604-555-0103",
+      "phone4": "604-555-0104",
+      "phone5": "604-555-0105",
+      "hours": "월요일 - 금요일: 오전 11:00 - 새벽 1:00",
+      "hoursWeekend": "주말: 오전 11:00 - 새벽 2:00",
+      "feature1": "역사적 지구",
+      "feature2": "야외 테라스",
+      "feature3": "주차 가능",
+      "feature4": "해변 전망",
+      "feature5": "프리미엄 위치",
+      "feature6": "발렛 파킹",
+      "feature7": "루프탑 테라스",
+      "feature8": "프라이빗 다이닝룸",
+      "feature9": "주말 브런치",
+      "feature10": "라이브 음악",
+      "feature11": "가족 친화적",
+      "feature12": "야외 좌석",
+      "feature13": "반려동물 동반 가능 테라스",
+      "feature14": "이벤트 공간"
+    }
+  }
+}

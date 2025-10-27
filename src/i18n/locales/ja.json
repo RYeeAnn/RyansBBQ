@@ -1,0 +1,176 @@
+{
+  "navigation": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "locations": "店舗",
+    "contact": "お問い合わせ",
+    "reservations": "予約"
+  },
+  "hero": {
+    "title1": "プレミアム",
+    "title2": "本格的",
+    "title3": "BBQレストラン",
+    "subtitle": "情熱を持って作られた伝統的なBBQの味をお楽しみください。バンクーバーで最高級の燻製肉と本格的なサイドのみを提供しています。",
+    "cta": "メニューを見る"
+  },
+  "landing": {
+    "findRyan": {
+      "title": "Ryanを見つける！",
+      "description": "バンクーバー・ダウンタウン全体に5つのレストランがあります。お近くのRyanを探してください！",
+      "link": "店舗を探す"
+    },
+    "reservation": {
+      "title": "予約する",
+      "description": "本格的なBBQの味を発見し、最寄りのRyan's BBQでプレミアムなサービスを体験してください。",
+      "link": "テーブルを予約"
+    },
+    "about": {
+      "ourStory": {
+        "title": "私たちの物語",
+        "description": "バンクーバーに本格的なBBQの味を届けたいというビジョンで設立されたRyan's BBQは、オープン以来、プレミアムな燻製肉と伝統的なサイドを提供しています。最高の食材のみを調達し、私たちの職人技に誇りを持っています。"
+      },
+      "ourMission": {
+        "title": "私たちの使命",
+        "description": "本格的な味、質の高い食材、温かいおもてなしを祝う優れたBBQ食事体験を提供します。すべてのお客様に家族のような気持ちを感じていただくことに努めています。"
+      }
+    }
+  },
+  "menu": {
+    "title": "メニュー",
+    "loading": "メニューを読み込み中...",
+    "error": "エラー",
+    "tryAgain": "再試行",
+    "filters": {
+      "all": "すべて",
+      "bbq": "BBQ",
+      "steaks": "ステーキ",
+      "sandwiches": "サンドイッチ",
+      "sides": "サイド",
+      "drinks": "ドリンク",
+      "desserts": "デザート"
+    },
+    "sections": {
+      "bbq": "BBQおすすめ",
+      "steaks": "プレミアムステーキ",
+      "sandwiches": "サンドイッチ",
+      "sides": "サイド＆その他",
+      "drinks": "ドリンク",
+      "desserts": "デザート"
+    }
+  },
+  "locations": {
+    "title": "店舗",
+    "subtitle": "バンクーバー・ダウンタウン全体の便利な5つの場所でRyan's BBQをお楽しみください",
+    "address": "住所:",
+    "phone": "電話:",
+    "hours": "営業時間",
+    "features": "特徴",
+    "getDirections": "道順を取得",
+    "callNow": "今すぐ電話"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "お気軽にお問い合わせください",
+    "form": {
+      "title": "メッセージを送信",
+      "name": "お名前",
+      "email": "メール",
+      "subject": "件名",
+      "message": "メッセージ",
+      "send": "メッセージを送信",
+      "sending": "送信中...",
+      "required": "*",
+      "namePlaceholder": "お名前を入力",
+      "emailPlaceholder": "your.email@example.com",
+      "subjectPlaceholder": "件名は何ですか？",
+      "messagePlaceholder": "ご意見をお聞かせください...",
+      "success": "ありがとうございます！メッセージが正常に送信されました。",
+      "error": "メッセージの送信に失敗しました。もう一度お試しください。",
+      "networkError": "ネットワークエラーです。接続を確認して再試行してください。"
+    },
+    "info": {
+      "title": "連絡先情報",
+      "phone": "電話",
+      "email": "メール",
+      "address": "住所",
+      "hoursTitle": "営業時間",
+      "hours": {
+        "weekday": "月曜日 - 木曜日: 午前11時 - 午後11時",
+        "friday": "金曜日: 午前11時 - 午前0時",
+        "saturday": "土曜日: 午前10時 - 午前0時",
+        "sunday": "日曜日: 午前10時 - 午後11時"
+      }
+    }
+  },
+  "reservations": {
+    "title": "予約する",
+    "subtitle": "バンクーバーの5つの店舗のいずれかでテーブルを予約",
+    "form": {
+      "location": "店舗を選択",
+      "locationPlaceholder": "店舗を選択してください",
+      "date": "日付",
+      "time": "時間",
+      "timePlaceholder": "時間を選択",
+      "guests": "人数",
+      "guest": "名",
+      "guests": "名",
+      "name": "フルネーム",
+      "phone": "電話番号",
+      "email": "メールアドレス",
+      "requests": "特別なリクエスト",
+      "requestsPlaceholder": "食事制限、アクセシビリティのニーズ、または特別な機会はありますか？",
+      "submit": "予約をリクエスト",
+      "namePlaceholder": "山田太郎",
+      "phonePlaceholder": "(604) 555-0123",
+      "emailPlaceholder": "you@example.com"
+    },
+    "info": {
+      "title": "ご質問がありますか？",
+      "description": "大規模なパーティー（12名以上）または特別なイベントについては、直接お電話ください",
+      "confirmation": "リクエスト後2時間以内に電話またはメールで予約を確認いたします。"
+    }
+  },
+  "footer": {
+    "quickLinks": "クイックリンク",
+    "contact": "連絡先",
+    "hours": "営業時間",
+    "weekdays": "月曜日 - 金曜日: 午前11時 - 午前1時",
+    "weekends": "週末: 午前11時 - 午前2時",
+    "rights": "全著作権所有."
+  },
+  "locales": {
+    "locations": {
+      "gastown": "ガスタウン",
+      "coalHarbour": "コールハーバー",
+      "yaletown": "イエールタウン",
+      "mainStreet": "メインストリート",
+      "olympicVillage": "オリンピック村",
+      "address1": "ウォーターストリート123, バンクーバー, BC V6B 1A1",
+      "address2": "ウェストコルドバストリート456, バンクーバー, BC V6B 1E8",
+      "address3": "ハミルトンストリート789, バンクーバー, BC V6B 6A3",
+      "address4": "メインストリート321, バンクーバー, BC V5T 3M9",
+      "address5": "オリンピック村スクエア555, バンクーバー, BC V5Y 0J7",
+      "phone1": "604-555-0101",
+      "phone2": "604-555-0102",
+      "phone3": "604-555-0103",
+      "phone4": "604-555-0104",
+      "phone5": "604-555-0105",
+      "hours": "月曜日 - 金曜日: 午前11:00 - 午前1:00",
+      "hoursWeekend": "週末: 午前11:00 - 午前2:00",
+      "feature1": "歴史的地区",
+      "feature2": "パティオ席",
+      "feature3": "駐車場あり",
+      "feature4": "ウォーターフロントの景色",
+      "feature5": "プレミアムロケーション",
+      "feature6": "バレーパーキング",
+      "feature7": "ルーフトップパティオ",
+      "feature8": "プライベートダイニングルーム",
+      "feature9": "週末ブランチ",
+      "feature10": "ライブ音楽",
+      "feature11": "家族向け",
+      "feature12": "屋外席",
+      "feature13": "ペット可パティオ",
+      "feature14": "イベントスペース"
+    }
+  }
+}
