@@ -14,7 +14,8 @@ export const getMenuItemsByCategory = (
   data: MenuApiResponse,
   category: string
 ): MenuItem[] => {
-  return data[category] || [];
+  const categoryData = data[category];
+  return Array.isArray(categoryData) ? categoryData : [];
 };
 
 // Get a subset of items for display (avoid showing all 40-60 items)
