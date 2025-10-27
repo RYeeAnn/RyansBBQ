@@ -1,0 +1,22 @@
+[build]
+  # Build command
+  command = "npm run build"
+  # Directory with the built files
+  publish = "dist"
+
+# Proxy API requests to Netlify Functions
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+# SPA fallback
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build.environment]
+  # This will be overridden by Netlify's environment variables
+  RESEND_API_KEY = ""
+
