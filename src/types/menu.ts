@@ -8,10 +8,6 @@ export interface MenuItem {
   country: string;
 }
 
-export interface MenuCategory {
-  [categoryName: string]: MenuItem[];
-}
-
 export interface MenuApiResponse {
   [categoryName: string]: MenuItem[] | {
     [categoryName: string]: number;

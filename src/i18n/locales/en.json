@@ -58,16 +58,6 @@
       "desserts": "Desserts"
     }
   },
-  "locations": {
-    "title": "Our Locations",
-    "subtitle": "Experience Ryan's BBQ at 5 convenient locations throughout Vancouver Downtown",
-    "address": "Address:",
-    "phone": "Phone:",
-    "hours": "Hours",
-    "features": "Features",
-    "getDirections": "Get Directions",
-    "callNow": "Call Now"
-  },
   "contact": {
     "title": "Contact Us",
     "subtitle": "Get in touch with us",
@@ -92,43 +82,12 @@
       "title": "Contact Information",
       "phone": "Phone",
       "email": "Email",
-      "address": "Address",
-      "hoursTitle": "Business Hours",
-      "hours": {
-        "weekday": "Monday - Thursday: 11am - 11pm",
-        "friday": "Friday: 11am - 12am",
-        "saturday": "Saturday: 10am - 12am",
-        "sunday": "Sunday: 10am - 11pm"
-      }
+      "address": "Address"
     }
   },
   "reservations": {
     "title": "Make a Reservation",
-    "subtitle": "Book your table at any of our 5 locations in Vancouver",
-    "form": {
-      "location": "Select Location",
-      "locationPlaceholder": "Choose a location",
-      "date": "Date",
-      "time": "Time",
-      "timePlaceholder": "Select time",
-      "guests": "Party Size",
-      "guest": "Guest",
-      "guests": "Guests",
-      "name": "Full Name",
-      "phone": "Phone Number",
-      "email": "Email Address",
-      "requests": "Special Requests",
-      "requestsPlaceholder": "Any dietary restrictions, accessibility needs, or special occasions?",
-      "submit": "Request Reservation",
-      "namePlaceholder": "John Doe",
-      "phonePlaceholder": "(604) 555-0123",
-      "emailPlaceholder": "you@example.com"
-    },
-    "info": {
-      "title": "Have Questions?",
-      "description": "For large parties (12+ guests) or special events, please call us directly at",
-      "confirmation": "We'll confirm your reservation via phone or email within 2 hours of your request."
-    }
+    "subtitle": "Book your table at any of our 5 locations in Vancouver"
   },
   "footer": {
     "quickLinks": "Quick Links",
@@ -137,40 +96,5 @@
     "weekdays": "Monday - Friday: 11am - 1am",
     "weekends": "Weekends: 11am - 2am",
     "rights": "All rights reserved."
-  },
-  "locales": {
-    "locations": {
-      "gastown": "Gastown",
-      "coalHarbour": "Coal Harbour",
-      "yaletown": "Yaletown",
-      "mainStreet": "Main Street",
-      "olympicVillage": "Olympic Village",
-      "address1": "123 Water Street, Vancouver, BC V6B 1A1",
-      "address2": "456 West Cordova Street, Vancouver, BC V6B 1E8",
-      "address3": "789 Hamilton Street, Vancouver, BC V6B 6A3",
-      "address4": "321 Main Street, Vancouver, BC V5T 3M9",
-      "address5": "555 Olympic Village Square, Vancouver, BC V5Y 0J7",
-      "phone1": "604-555-0101",
-      "phone2": "604-555-0102",
-      "phone3": "604-555-0103",
-      "phone4": "604-555-0104",
-      "phone5": "604-555-0105",
-      "hours": "Monday - Friday: 11:00 AM - 1:00 AM",
-      "hoursWeekend": "Weekends: 11:00 AM - 2:00 AM",
-      "feature1": "Historic District",
-      "feature2": "Patio Seating",
-      "feature3": "Parking Available",
-      "feature4": "Waterfront views",
-      "feature5": "Premium location",
-      "feature6": "Valet parking",
-      "feature7": "Rooftop patio",
-      "feature8": "Private dining room",
-      "feature9": "Weekend brunch",
-      "feature10": "Live music",
-      "feature11": "Family friendly",
-      "feature12": "Outdoor seating",
-      "feature13": "Pet friendly patio",
-      "feature14": "Event space"
-    }
   }
 }
