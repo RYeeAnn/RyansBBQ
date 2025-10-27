@@ -88,19 +88,11 @@ const Menu = () => {
         const steakItems = getMenuItemsByCategory(data, 'steaks');
         if (steakItems.length > 0) images['steak'] = steakItems[0].img;
         
-        const sandwichItems = getMenuItemsByCategory(data, 'sandwiches');
-        if (sandwichItems.length > 0) images['sandwich'] = sandwichItems[0].img;
+        // Use a custom image for sandwiches
+        images['sandwich'] = 'https://goldbelly.imgix.net/uploads/showcase_media_asset/image/115433/fried-chicken-sandwich-combo-kit-for-6.649e00580828a749ee120ec205cf9bb8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1';
         
-        // Use a different image for sides - try an image from another category as fallback
-        const sidesItems = getMenuItemsByCategory(data, 'best-foods');
-        if (sidesItems.length > 0 && sidesItems[0].img) {
-          // If the first image doesn't work, try the second one
-          images['sides'] = sidesItems.length > 1 ? sidesItems[1].img : sidesItems[0].img;
-        } else {
-          // If best-foods doesn't have images, use a BBQ item
-          const bbqItems = getMenuItemsByCategory(data, 'bbqs');
-          if (bbqItems.length > 1) images['sides'] = bbqItems[1].img;
-        }
+        // Use a custom image for sides
+        images['sides'] = 'https://goldbelly.imgix.net/uploads/showcase_media_asset/image/96632/bbq-meat-and-sides-feast.e330bee9ac3a6e322500b411094b3ca4.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1';
         
         // Add drinks and desserts for a complete BBQ menu
         const drinkItems = getMenuItemsByCategory(data, 'drinks');

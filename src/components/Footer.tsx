@@ -40,7 +40,7 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">{t('footer.contact')}</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>604-000-0000</li>
+              <li>604-555-5555</li>
               <li>info@ryansbbq.com</li>
               <li>Vancouver, BC</li>
             </ul>
@@ -57,8 +57,26 @@ const Footer = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-white/20 mt-8 pt-8 text-center text-white/70">
-          <p>&copy; 2025 Ryan's BBQ. {t('footer.rights')}</p>
+        <div className="border-t border-white/20 mt-8 pt-8">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+            <p className="text-white/70">&copy; 2025 Ryan's BBQ. {t('footer.rights')}</p>
+            
+            {/* Social Media Icons */}
+            <div className="flex space-x-4">
+              <a href="#" className="block w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 transition-all flex items-center justify-center">
+                <span className="text-white text-sm font-semibold">f</span>
+              </a>
+              <a href="#" className="block w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 transition-all flex items-center justify-center">
+                <span className="text-white text-sm">@</span>
+              </a>
+              <a href="#" className="block w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 transition-all flex items-center justify-center">
+                <span className="text-white text-sm">✕</span>
+              </a>
+              <a href="#" className="block w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 transition-all flex items-center justify-center">
+                <span className="text-white text-sm">✉</span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </footer>

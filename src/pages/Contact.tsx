@@ -171,7 +171,7 @@ const Contact = () => {
                 <div className="space-y-6">
                   <div>
                     <h3 className="font-semibold text-rose-950 mb-2">{t('contact.info.phone')}</h3>
-                    <p className="text-gray-700">604-000-0000</p>
+                    <p className="text-gray-700">604-555-5555</p>
                   </div>
 
                   <div>
@@ -187,13 +187,11 @@ const Contact = () => {
               </div>
 
               <div>
-                <h2 className="text-3xl font-light text-rose-950 mb-6">{t('contact.info.hoursTitle')}</h2>
+                <h2 className="text-3xl font-light text-rose-950 mb-6">{t('footer.hours')}</h2>
                 
                 <div className="space-y-2 text-gray-700">
-                  <p>{t('contact.info.hours.weekday')}</p>
-                  <p>{t('contact.info.hours.friday')}</p>
-                  <p>{t('contact.info.hours.saturday')}</p>
-                  <p>{t('contact.info.hours.sunday')}</p>
+                  <p>{t('footer.weekdays')}</p>
+                  <p>{t('footer.weekends')}</p>
                 </div>
               </div>
             </div>

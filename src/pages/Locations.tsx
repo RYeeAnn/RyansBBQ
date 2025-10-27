@@ -28,7 +28,7 @@ const locations: LocationData[] = [
     phone: '604-555-0102',
     hours: ['Monday - Friday: 11:00 AM - 1:00 AM', 'Weekends: 11:00 AM - 2:00 AM'],
     features: ['Waterfront views', 'Premium location', 'Valet parking'],
-    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.5!2d-123.115567623!3d49.281074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486717890!2zQ29yZG92YSBTdA!5e0!3m2!1sen!2sca!4v1234567890'
+    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.5143477179!2d-123.1132893!3d49.2827281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867181a5c738c5%3A0x7c8a78df2c5a9c4!2s456%20W%20Cordova%20St%2C%20Vancouver%2C%20BC%20V6B%201E8!5e0!3m2!1sen!2sca!4v1641234567890!5m2!1sen!2sca'
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const locations: LocationData[] = [
     phone: '604-555-0103',
     hours: ['Monday - Friday: 11:00 AM - 1:00 AM', 'Weekends: 11:00 AM - 2:00 AM'],
     features: ['Rooftop patio', 'Private dining room', 'Weekend brunch'],
-    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.5!2d-123.120891623!3d49.275074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486717890!2zSGFtaWx0b24gU3Q!5e0!3m2!1sen!2sca!4v1234567890'
+    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.5143477179!2d-123.1210607!3d49.2757267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486718022a5e5c3%3A0x9b8c3c7f7d9e8e8f!2s789%20Hamilton%20St%2C%20Vancouver%2C%20BC%20V6B%206A3!5e0!3m2!1sen!2sca!4v1641234567890!5m2!1sen!2sca'
   },
   {
     id: 4,

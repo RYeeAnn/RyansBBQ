@@ -276,8 +276,8 @@ const Reservations = () => {
             <h3 className="text-lg font-medium text-rose-950 mb-4">Have Questions?</h3>
             <p className="text-sm text-gray-700 mb-4">
               For large parties (12+ guests) or special events, please call us directly at{' '}
-              <a href="tel:604-000-0000" className="text-gray-900 hover:underline">
-                604-000-0000
+              <a href="tel:604-555-5555" className="text-gray-900 hover:underline">
+                604-555-5555
               </a>
             </p>
             <p className="text-xs text-gray-600">

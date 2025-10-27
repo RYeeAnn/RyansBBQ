@@ -13,12 +13,12 @@ const MenuSection = ({ title, items, categoryImage, onItemClick }: MenuSectionPr
     <div className="mb-20">
       {/* Category Image */}
       {categoryImage && (
-        <div className="mb-10">
-          <div className="relative h-64 w-full overflow-hidden rounded-lg bg-gray-100 shadow-xl border-2 border-rose-200">
+        <div className="mb-10 flex justify-start">
+          <div className="relative h-64 max-w-4xl overflow-hidden rounded-lg bg-gray-100 shadow-xl border-2 border-rose-200">
             <img
               src={categoryImage}
               alt={title}
-              className="w-full h-full object-cover"
+              className="h-full object-contain"
               onError={(e) => {
                 e.currentTarget.src = 'https://images.unsplash.com/photo-1544025162-d7660e976e40?w=1200';
               }}

@@ -78,6 +78,13 @@ const Hero = () => {
         
         {/* Content Container */}
         <div className="w-full h-full flex flex-col justify-center px-8 md:px-12 lg:px-16 py-24 pt-32 relative z-10">
+          {/* Welcome Tag */}
+          <div className="flex items-center gap-3 mb-6 opacity-80">
+            <div className="h-px w-12 bg-amber-500"></div>
+            <span className="text-amber-500 uppercase tracking-widest text-sm font-semibold">Welcome</span>
+            <div className="h-px w-12 bg-amber-500"></div>
+          </div>
+
           {/* Main Headlines */}
           <div className="space-y-6 mb-8">
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight">
@@ -90,13 +97,41 @@ const Hero = () => {
             </p>
           </div>
           
-          {/* CTA Button */}
-          <div className="pt-4">
+          {/* Trust Indicators */}
+          <div className="flex flex-wrap items-center gap-6 py-6 mb-6 text-gray-400 text-sm">
+            <div className="flex items-center gap-2">
+              <svg className="w-5 h-5 text-amber-500" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+              </svg>
+              <span>#1 BBQ in Vancouver</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <svg className="w-5 h-5 text-amber-500" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" />
+              </svg>
+              <span>Family Owned & Operated</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <svg className="w-5 h-5 text-amber-500" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
+              </svg>
+              <span>5 Locations</span>
+            </div>
+          </div>
+
+          {/* CTA Buttons */}
+          <div className="flex flex-wrap gap-4 pt-4">
             <Link
               to="/menu"
-              className="inline-block bg-white text-gray-900 px-10 py-4 rounded-lg hover:bg-gray-100 transition-all duration-300 text-base font-semibold uppercase tracking-wide shadow-lg"
+              className="inline-block bg-white text-gray-900 px-10 py-4 rounded-lg hover:bg-gray-100 transition-all duration-300 text-base font-semibold uppercase tracking-wide shadow-lg hover:scale-105"
             >
               {t('hero.cta')}
+            </Link>
+            <Link
+              to="/reservations"
+              className="inline-block border-2 border-white text-white px-10 py-4 rounded-lg hover:bg-white hover:text-gray-900 transition-all duration-300 text-base font-semibold uppercase tracking-wide hover:scale-105"
+            >
+              {t('navigation.reservations')}
             </Link>
           </div>
         </div>
